@@ -13,10 +13,12 @@ MM: Man–Man
 
 
 📦 Dependencies
+
 Install these with pip install -r requirements.txt or manually:
 
 tqdm
 gender-guesser
+
 gender-guesser is used for simple first-name-based gender inference. 
 
 🧠 Usage
