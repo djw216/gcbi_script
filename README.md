@@ -25,10 +25,7 @@ gender-guesser is used for simple first-name-based gender inference.
 
 Add academic names to the academics list in the script:
 
-academics = ["James B. Rowe", "David J. Whiteside"]
+academics = ["James B. Rowe"]
 
-Run the script:
-
-python gcbi_analyzer.py
 
 Results will be saved as a CSV file (gcbi_results.csv) 
