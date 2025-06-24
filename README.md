@@ -22,9 +22,11 @@ gender-guesser
 gender-guesser is used for simple first-name-based gender inference. 
 
 🧠 Usage
+
 Add academic names to the academics list in the script:
 
 academics = ["James B. Rowe", "David J. Whiteside"]
+
 Run the script:
 
 python gcbi_analyzer.py
